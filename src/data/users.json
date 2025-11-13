@@ -1,0 +1,425 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "password": "123456",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "password": "123456",
+      "role": "USER",
+      "orders": [
+        {
+          "orderId": "C2001",
+          "cakeName": "Black Forest",
+          "quantity": 1,
+          "price": 500,
+          "status": "processing",
+          "deliveryDate": "2025-07-20"
+        },
+        {
+          "orderId": "C2001",
+          "cakeName": "Black Forest",
+          "quantity": 1,
+          "price": 500,
+          "status": "processing",
+          "deliveryDate": "2025-07-20"
+        },
+        {
+          "orderId": "C2001",
+          "cakeName": "Black Forest",
+          "quantity": 1,
+          "price": 500,
+          "status": "processing",
+          "deliveryDate": "2025-07-20"
+        },
+        {
+          "orderId": "C2001",
+          "cakeName": "Black Forest",
+          "quantity": 1,
+          "price": 500,
+          "status": "processing",
+          "deliveryDate": "2025-07-20"
+        },
+        {
+          "orderId": "C2001",
+          "cakeName": "Black Forest",
+          "quantity": 1,
+          "price": 500,
+          "status": "processing",
+          "deliveryDate": "2025-07-20"
+        },
+        {
+          "orderId": "C9023",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-24"
+        },
+        {
+          "orderId": "C7351",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-24"
+        },
+        {
+          "orderId": "C1753201677946",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753201684924",
+          "cakeName": "Classic Cheesecake",
+          "quantity": 1,
+          "price": "300",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753201695425",
+          "cakeName": "Easter Cupcakes-6",
+          "quantity": 1,
+          "price": 300,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753201748865",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753201752932",
+          "cakeName": "Classic Cheesecake",
+          "quantity": 1,
+          "price": "300",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753201762946",
+          "cakeName": "Muffin Ghost-2",
+          "quantity": 1,
+          "price": 250,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753201870783",
+          "cakeName": "Chocolate Blueberries Cake",
+          "quantity": 1,
+          "price": 2000,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202673930",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202681012",
+          "cakeName": "Monster Theme Cake",
+          "quantity": 1,
+          "price": 550,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202723757",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202726740",
+          "cakeName": "Chocolate Summer Berries",
+          "quantity": 1,
+          "price": 1100,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202736705",
+          "cakeName": "Muffin Devil Horns-3",
+          "quantity": 1,
+          "price": 375,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202865222",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202954145",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202957460",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202978875",
+          "cakeName": "Muffin Ghost-2",
+          "quantity": 1,
+          "price": 250,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202979657",
+          "cakeName": "Muffin Ghost-2",
+          "quantity": 1,
+          "price": 250,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202980944",
+          "cakeName": "Muffin Ghost-2",
+          "quantity": 1,
+          "price": 250,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753202983040",
+          "cakeName": "Muffin Ghost-2",
+          "quantity": 1,
+          "price": 250,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753203535353",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753203537769",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753203537904",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753205827086",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753205833218",
+          "cakeName": "Classic Cheesecake",
+          "quantity": 1,
+          "price": "300",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753206058478",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753206075454",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753206078219",
+          "cakeName": "Butter Cookies",
+          "quantity": 1,
+          "price": 450,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753208075048",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753208094978",
+          "cakeName": "Classic Cheesecake",
+          "quantity": 1,
+          "price": "300",
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753208098078",
+          "cakeName": "Monster Theme Cake",
+          "quantity": 1,
+          "price": 550,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753208105044",
+          "cakeName": "Pumpkin Spice Cupcakes-6",
+          "quantity": 1,
+          "price": 360,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753208109826",
+          "cakeName": "Pumpkin Spice Cupcakes-6",
+          "quantity": 1,
+          "price": 360,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753208147539",
+          "cakeName": "Cookies Cream Cake",
+          "quantity": 1,
+          "price": 1000,
+          "status": "processing",
+          "deliveryDate": "2025-07-25"
+        },
+        {
+          "orderId": "C1753276595338",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-26"
+        },
+        {
+          "orderId": "C1753280625438",
+          "cakeName": "Delicios Fruit Cake",
+          "quantity": 1,
+          "price": "800",
+          "status": "processing",
+          "deliveryDate": "2025-07-26"
+        },
+        {
+          "orderId": "C1753281137821",
+          "cakeName": "Classic Cheesecake",
+          "quantity": 1,
+          "price": "300",
+          "status": "processing",
+          "deliveryDate": "2025-07-26"
+        },
+        {
+          "orderId": "C1753365874806",
+          "cakeName": "Cherry Jelly Cheesecake",
+          "quantity": 1,
+          "price": 1300,
+          "status": "processing",
+          "deliveryDate": "2025-07-27"
+        },
+        {
+          "orderId": "C1753366325697",
+          "cakeName": "Berries Summer Cupcakes-6",
+          "quantity": 1,
+          "price": 420,
+          "status": "processing",
+          "deliveryDate": "2025-07-27"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "email": "alicej@example.com",
+      "password": "123456",
+      "role": "GUEST",
+      "orders": []
+    },
+    {
+      "id": "4",
+      "name": "Bob Lee",
+      "username": "boblee",
+      "email": "boblee@example.com",
+      "password": "123456",
+      "role": "USER",
+      "orders": [
+        {
+          "orderId": "C3001",
+          "cakeName": "Strawberry Cheesecake",
+          "quantity": 1,
+          "price": 750,
+          "status": "cancelled",
+          "deliveryDate": "2025-07-17"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Charlie Brown",
+      "username": "charlieb",
+      "email": "charlieb@example.com",
+      "password": "123456",
+      "role": "USER",
+      "orders": []
+    },
+    {
+      "id": "6",
+      "name": "Abdul Qayyum",
+      "email": "qayyumiq@outlook.com",
+      "password": "123456",
+      "role": "USER"
+    }
+  ]
+}
